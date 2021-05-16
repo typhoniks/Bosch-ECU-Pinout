@@ -1,4 +1,4 @@
-<!-- TABLE OF CONTENTS -->
+<summary><h2 style="display: inline-block">Table of Contents</h2></summary>
 Bosch EDC 17C06 - DDE 70 (BMW)
 <br/>Bosch EDC 17CP22 (Volvo)
 <br/>Bosch EDC 17C08 (Hyundai)
